@@ -12,6 +12,7 @@
 		544CEE80260564E700046A38 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 544CEE7E260564E700046A38 /* Main.storyboard */; };
 		544CEE82260564E800046A38 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 544CEE81260564E800046A38 /* Assets.xcassets */; };
 		544CEE85260564E800046A38 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 544CEE83260564E800046A38 /* LaunchScreen.storyboard */; };
+		548BE3FE260ED3150078AF5F /* CommentCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 548BE3FD260ED3150078AF5F /* CommentCell.swift */; };
 		54F631C32605682900AD2D08 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54F631C22605682900AD2D08 /* LoginViewController.swift */; };
 		54F631C62605683200AD2D08 /* FeedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54F631C52605683200AD2D08 /* FeedViewController.swift */; };
 		54F631C92605853600AD2D08 /* cameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54F631C82605853600AD2D08 /* cameraViewController.swift */; };
@@ -27,6 +28,7 @@
 		544CEE81260564E800046A38 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		544CEE84260564E800046A38 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		544CEE86260564E800046A38 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		548BE3FD260ED3150078AF5F /* CommentCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentCell.swift; sourceTree = "<group>"; };
 		54F631C22605682900AD2D08 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		54F631C52605683200AD2D08 /* FeedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedViewController.swift; sourceTree = "<group>"; };
 		54F631C82605853600AD2D08 /* cameraViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = cameraViewController.swift; sourceTree = "<group>"; };
@@ -76,6 +78,7 @@
 				54F631C82605853600AD2D08 /* cameraViewController.swift */,
 				54F631C22605682900AD2D08 /* LoginViewController.swift */,
 				54F631C52605683200AD2D08 /* FeedViewController.swift */,
+				548BE3FD260ED3150078AF5F /* CommentCell.swift */,
 				544CEE81260564E800046A38 /* Assets.xcassets */,
 				544CEE83260564E800046A38 /* LaunchScreen.storyboard */,
 				544CEE86260564E800046A38 /* Info.plist */,
@@ -220,6 +223,7 @@
 				54F631C92605853600AD2D08 /* cameraViewController.swift in Sources */,
 				54F631C62605683200AD2D08 /* FeedViewController.swift in Sources */,
 				544CEE7B260564E700046A38 /* SceneDelegate.swift in Sources */,
+				548BE3FE260ED3150078AF5F /* CommentCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
