@@ -1,8 +1,8 @@
 
 
-## Video Walkthrough
+## Pastagram: iOS implementation using Swift, Instagram API and Back4App API
 
-Here's a walkthrough of implemented user stories:
+Here's the implemented Image:
 
 <img src='https://github.com/davidseungjin/Parstagram3/blob/main/Parstargram_simul.gif' width='' alt='Pastagram demonstration' />
 
